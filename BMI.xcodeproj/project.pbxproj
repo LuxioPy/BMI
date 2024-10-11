@@ -16,6 +16,7 @@
 		213C2D1F2CB99353000A7186 /* BMITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 213C2D1E2CB99353000A7186 /* BMITests.swift */; };
 		213C2D292CB99353000A7186 /* BMIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 213C2D282CB99353000A7186 /* BMIUITests.swift */; };
 		213C2D2B2CB99353000A7186 /* BMIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 213C2D2A2CB99353000A7186 /* BMIUITestsLaunchTests.swift */; };
+		213C2D382CB9A0BD000A7186 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 213C2D372CB9A0BD000A7186 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		213C2D242CB99353000A7186 /* BMIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BMIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		213C2D282CB99353000A7186 /* BMIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BMIUITests.swift; sourceTree = "<group>"; };
 		213C2D2A2CB99353000A7186 /* BMIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BMIUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		213C2D372CB9A0BD000A7186 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		213C2CFB2CB99350000A7186 = {
 			isa = PBXGroup;
 			children = (
+				213C2D372CB9A0BD000A7186 /* .gitignore */,
 				213C2D062CB99350000A7186 /* BMI */,
 				213C2D1D2CB99353000A7186 /* BMITests */,
 				213C2D272CB99353000A7186 /* BMIUITests */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				213C2D382CB9A0BD000A7186 /* .gitignore in Resources */,
 				213C2D142CB99353000A7186 /* LaunchScreen.storyboard in Resources */,
 				213C2D112CB99353000A7186 /* Assets.xcassets in Resources */,
 				213C2D0F2CB99350000A7186 /* Main.storyboard in Resources */,
